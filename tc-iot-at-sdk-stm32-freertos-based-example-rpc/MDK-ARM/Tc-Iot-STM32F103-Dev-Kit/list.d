@@ -1,0 +1,13 @@
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+tc-iot-stm32f103-dev-kit\list.o: D:\ARM\ARMCC\Bin\..\include\stdlib.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tc-iot-stm32f103-dev-kit\list.o: D:\ARM\ARMCC\Bin\..\include\stddef.h
+tc-iot-stm32f103-dev-kit\list.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+tc-iot-stm32f103-dev-kit\list.o: ../Inc/FreeRTOSConfig.h
+tc-iot-stm32f103-dev-kit\list.o: ../Inc/main.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tc-iot-stm32f103-dev-kit\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
